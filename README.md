@@ -45,6 +45,3 @@ Configura la URL del servidor RabbitMQ en los archivos `appsettings.json` de los
 ## Pruebas y Endpoints
 Para probar los endpoints de cada microservicio, puedes utilizar Postman o cualquier otra herramienta de cliente HTTP. Consulta la documentación del proyecto para obtener detalles sobre los endpoints disponibles y su funcionalidad.
 
----
-
-¡Listo! Ahora puedes copiar y pegar este texto en tu archivo README. Si necesitas más ayuda, ¡avísame!
